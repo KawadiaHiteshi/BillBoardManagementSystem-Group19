@@ -3,6 +3,9 @@ package ui.AdministrativeRole;
 import Business.Enterprise.Enterprise;
 import java.awt.CardLayout;
 import javax.swing.JPanel;
+import ui.AdministrativeRole.ManageEmployeeJPanel;
+import ui.AdministrativeRole.ManageOrganizationJPanel;
+import ui.AdministrativeRole.ManageUserAccountJPanel;
 
 /**
  *
